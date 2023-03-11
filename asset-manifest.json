@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.fd179b21.chunk.css",
-  "main.js": "/static/js/main.013c92d5.chunk.js",
-  "main.js.map": "/static/js/main.013c92d5.chunk.js.map",
-  "static/js/1.6d5011ca.chunk.js": "/static/js/1.6d5011ca.chunk.js",
-  "static/js/1.6d5011ca.chunk.js.map": "/static/js/1.6d5011ca.chunk.js.map",
-  "static/js/2.9b67f8ea.chunk.js": "/static/js/2.9b67f8ea.chunk.js",
-  "static/js/2.9b67f8ea.chunk.js.map": "/static/js/2.9b67f8ea.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.ff52c985.js",
-  "runtime~main.js.map": "/static/js/runtime~main.ff52c985.js.map",
-  "static/css/main.fd179b21.chunk.css.map": "/static/css/main.fd179b21.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.01653ea2ad125d87c9a73116c103a5bc.js": "/precache-manifest.01653ea2ad125d87c9a73116c103a5bc.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/CloudResume/static/css/main.fd179b21.chunk.css",
+  "main.js": "/CloudResume/static/js/main.013c92d5.chunk.js",
+  "main.js.map": "/CloudResume/static/js/main.013c92d5.chunk.js.map",
+  "static/js/1.6d5011ca.chunk.js": "/CloudResume/static/js/1.6d5011ca.chunk.js",
+  "static/js/1.6d5011ca.chunk.js.map": "/CloudResume/static/js/1.6d5011ca.chunk.js.map",
+  "static/js/2.b65ca773.chunk.js": "/CloudResume/static/js/2.b65ca773.chunk.js",
+  "static/js/2.b65ca773.chunk.js.map": "/CloudResume/static/js/2.b65ca773.chunk.js.map",
+  "runtime~main.js": "/CloudResume/static/js/runtime~main.0dac40e3.js",
+  "runtime~main.js.map": "/CloudResume/static/js/runtime~main.0dac40e3.js.map",
+  "static/css/main.fd179b21.chunk.css.map": "/CloudResume/static/css/main.fd179b21.chunk.css.map",
+  "index.html": "/CloudResume/index.html",
+  "precache-manifest.b2375f34135727bfb1e63ee1e2d4d920.js": "/CloudResume/precache-manifest.b2375f34135727bfb1e63ee1e2d4d920.js",
+  "service-worker.js": "/CloudResume/service-worker.js"
 }
